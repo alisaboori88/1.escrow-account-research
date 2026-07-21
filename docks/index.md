@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index.md
+title:  مستندات حساب امانی (Escrow)
 ---
 
 # تحقیقات حساب امانی (Escrow Account)
