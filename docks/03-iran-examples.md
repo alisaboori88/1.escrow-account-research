@@ -1,6 +1,6 @@
 ---
 layout: default
-title: عنوان فایل شما اینجا باشد
+title: 03-iran-examples.md
 ---
 
 # نمونه‌های ایرانی حساب امانی
