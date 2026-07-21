@@ -1,6 +1,6 @@
 ---
 layout: default
-title: عنوان فایل شما اینجا باشد
+title: index.md
 ---
 
 # تحقیقات حساب امانی (Escrow Account)
