@@ -1,6 +1,6 @@
 ---
 layout: default
-title: عنوان فایل شما اینجا باشد
+title: 05-implementation-proposals.md
 ---
 # پیشنهادات پیاده‌سازی حساب امانی در ایران
 
