@@ -1,6 +1,6 @@
 ---
 layout: default
-title: عنوان فایل شما اینجا باشد
+title: 02-international-examples.md
 ---
 
 # نمونه‌های موفق بین‌المللی حساب امانی (Escrow Account)
