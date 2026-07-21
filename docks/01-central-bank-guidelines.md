@@ -1,6 +1,6 @@
 ---
 layout: default
-title: عنوان فایل شما اینجا باشد
+title: 01-central-bank-guidelines.md
 ---
 
 # دستورالعمل‌ها و ضوابط بانک مرکزی درباره حساب امانی (Escrow Account)
